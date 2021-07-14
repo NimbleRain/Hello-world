@@ -6,6 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Clone - 원격저장소 복사" << endl;
+    std::cout << "add - 스테이지 영역에 파일 추가" << endl;
+    std::cout << "commit - 세이브, 스테이지 영역의 파일들을 가지고 커밋(세이브)를 만들 수 있다." << endl;
+    std::cout << "push - 원격 저장소에 커밋을 업로드 한다" << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
